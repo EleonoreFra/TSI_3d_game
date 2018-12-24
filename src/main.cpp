@@ -6,6 +6,8 @@
  * - Le chat et la caméra sont fixés
  *
  * Programme principal des appels OpenGL
+ * 
+ * Copyright Eleonore FRANCOIS - 2018
 \*****************************************************************************/
 
 
